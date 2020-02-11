@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sunzhe.site/link/index.html</loc>
+    
+    <lastmod>2020-02-11T12:53:58.745Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sunzhe.site/manifest.json</loc>
     
     <lastmod>2020-02-11T08:15:51.339Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://sunzhe.site/playlist/index.html</loc>
     
     <lastmod>2020-02-10T02:20:00.467Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sunzhe.site/links/index.html</loc>
-    
-    <lastmod>2020-02-10T02:02:36.259Z</lastmod>
     
   </url>
   
