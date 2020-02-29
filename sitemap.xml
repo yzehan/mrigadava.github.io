@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sunzhe.site/link/index.html</loc>
+    
+    <lastmod>2020-02-29T12:21:21.620Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://sunzhe.site/messageboard/index.html</loc>
+    
+    <lastmod>2020-02-29T12:09:01.715Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://sunzhe.site/about/index.html</loc>
     
     <lastmod>2020-02-29T05:57:09.090Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>https://sunzhe.site/posts/4a17b156.html</loc>
     
     <lastmod>2020-02-28T10:43:31.847Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sunzhe.site/messageboard/index.html</loc>
-    
-    <lastmod>2020-02-28T10:36:40.791Z</lastmod>
     
   </url>
   
@@ -40,13 +47,6 @@
     <loc>https://sunzhe.site/categories/index.html</loc>
     
     <lastmod>2020-02-16T12:28:41.812Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://sunzhe.site/link/index.html</loc>
-    
-    <lastmod>2020-02-11T12:53:58.745Z</lastmod>
     
   </url>
   
